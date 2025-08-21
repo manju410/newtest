@@ -1,1 +1,15 @@
-# s3.template
+# s3.templat
+# resours :
+# appbucket :
+# type:s3::bucket
+# properties:
+# name:mybucket
+# region: ap-south-1
+# q
+# Q
+#
+#
+#
+# 
+#
+#
